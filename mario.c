@@ -1,5 +1,5 @@
 #include <stdio.h>
-//#include <cs50.h> .......(CS50 does not work on my VScode)
+//#include <cs50.h> .......(CS50 library does not work on my VScode)
 
 int main(void)
 {
